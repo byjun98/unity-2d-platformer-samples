@@ -298,14 +298,8 @@ Tools/Coyote Jump/Create Demo Scene
 - 에셋명: `Pixel Adventure 1`
 - 제작자: `Pixel Frog`
 - 출처: Unity Asset Store
-- 사용 방식: 이 PC에 다운로드되어 있던 Unity Asset Store 캐시의 `.unitypackage`를 프로젝트에 임포트해서 사용
+- 사용 방식: Unity Asset Store 또는 Pixel Frog 배포 페이지에서 받은 에셋을 프로젝트에 임포트해서 사용
 - 프로젝트 내 위치: `Assets/Pixel Adventure 1`
-
-로컬 캐시 원본 경로:
-
-```text
-C:\Users\SSAFY\AppData\Roaming\Unity\Asset Store-5.x\Pixel Frog\Textures Materials2D Characters\Pixel Adventure 1.unitypackage
-```
 
 사용한 주요 파일:
 
